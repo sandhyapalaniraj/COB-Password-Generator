@@ -23,7 +23,7 @@ body{
     display: flex;
     flex-direction: column;
     background: transparent;
-    box-shadow: 8px 8px 4px #909090, 8px 8px 0px #575757;
+/*     box-shadow: 8px 8px 4px #909090, 8px 8px 0px #575757; */
 }
 
 .container h1{
@@ -40,7 +40,7 @@ body{
     top: 16px;
     right: 6px;
     color: #000;
-    font-size: 28px;
+    font-size: 20px;
     cursor: pointer;
 }
 .passBox{
